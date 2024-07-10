@@ -4,3 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mzz2017/v2raya
+zhx47/jd_h5st_server:amd64
